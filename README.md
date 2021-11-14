@@ -1,4 +1,4 @@
-## Welcome to tjddnd3116 Pages
+## Welcome to tjddnd3116 Page
 
 You can use the [editor on GitHub](https://github.com/tjddnd3116/tjddnd3116.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
